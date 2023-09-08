@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.7.1)
 
 project(FastNoise2 VERSION 0.10.0)
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 14)
 
 message("FastNoise2 Arch: ${CMAKE_SYSTEM_PROCESSOR}") 
 
